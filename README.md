@@ -5,16 +5,21 @@ DOMAIN: FRONTEND DEVELOPER
 MENTOR: NEELA SANTOSH
 
 #DESCRIPTION:
-This project is a personal developer portfolio website created to showcase my academic and internship projects in an organized and professional way. The website includes multiple sections such as About, Skills, Projects, and Contact with smooth scrolling navigation across the page. Each section is designed to clearly present my technical abilities, learning journey, and practical experience in web development. It highlights important works including Academix, Quest Window, Chat Application, and other college projects to represent both theoretical knowledge and practical implementation.
+This project is a personal developer portfolio website created to present my academic and internship work in a clear and organized manner. The purpose of this website is to act as a simple online profile where anyone can view my basic information, technical skills, and projects without needing a resume file. The project focuses on layout structure and presentation rather than advanced functionality.
 
-The primary goal of this project is to demonstrate frontend development skills, layout structuring, and responsive user interface design. The interface is simple, clean, and readable so that visitors can easily understand the content without distraction. Proper spacing, color contrast, and typography are used to improve user experience and maintain a professional appearance.
+The website is divided into sections such as About, Skills, Projects, and Contact. The About section introduces me and briefly explains my interest in web development. The Skills section lists the technologies I have learned during college and practice work. The Projects section displays my major works including Academix, Quest Window, Chat Application, and other small projects. Each project has a short explanation so visitors can understand what it does. The Contact section provides basic contact details.
 
-The website is lightweight and optimized for fast loading performance. It adapts to different screen sizes and works smoothly on desktops, tablets, and mobile devices without breaking layout structure. This project reflects understanding of modern UI design principles and the ability to present information effectively through a well-structured web interface.
+Navigation is implemented using simple anchor links so users can smoothly move across the page. The site does not contain login systems, forms connected to databases, or backend processing. It is purely a front-end informational website created to practice structuring content and presenting it neatly.
+
+The design is kept minimal to maintain readability. Basic colors, spacing, and alignment are used so the information remains the main focus. The layout adjusts to different screen sizes and works on mobile and desktop devices without breaking. The project helped in understanding how to organize content visually and how to maintain consistent styling across sections.
+
+This project demonstrates knowledge of semantic HTML, CSS layout handling, and responsive design principles. It also shows the ability to present personal work in a structured way using simple web technologies.
 
 #TECHNOLOGY USED:
 HTML: semantic page structure and navigation
 CSS: layout styling, responsive design, and visual appearance
 EDITOR: Visual Studio Code
 BROWSER: Opera GX
+
 #OUTPUT:
 <img width="1650" height="842" alt="Image" src="https://github.com/user-attachments/assets/e9441229-97fa-4d68-8889-ded52715c862" />
